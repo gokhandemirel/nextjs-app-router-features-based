@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+
+    body,
+    html {
+        @apply w-full h-full
+    }
+}
